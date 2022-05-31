@@ -189,3 +189,7 @@ Please note, the splitQuery method will still fail in the following cases:
 *    The DELIMITER command can be used to change the delimiter from the default ';' to something else.  
 *    The CREATE PROCEDURE command has a ';' in the middle of it
 *    The USE command is not terminated with a ';'
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
